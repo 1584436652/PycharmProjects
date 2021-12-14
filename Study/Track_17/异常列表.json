@@ -1,0 +1,11 @@
+[
+    {"Returned to sender": "退回寄件人"},
+    {"Cannot be delivered (refused acceptance)": "无法交付,拒绝接受"},
+    {"Cannot be delivered (wrong address)": "无法交付,地址错误"},
+    {"Cannot be delivered (addressee unknown)": "无法交付,地址未知"},
+    {"At the request of the addressee item will be delivered on the next day": "根据收件人的要求，项目将在第二天交付"},
+    {"Redirected to addressee's new address": "重定向到地址的新地址"},
+    {"Phone call discussion with the addressee": "与收听者进行电话讨论"},
+    {"Mail item available for collection at post office": "可在邮局领取的邮件"}
+]
+

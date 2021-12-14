@@ -1,0 +1,1 @@
+Caro Nemeth, Riteniamo che le informazioni sull'ordine fornite dall'utente non siano complete. Potresti fornirci il tuo indirizzo nel seguente formato: Destinatario: Strada: Cap: Città: Stato: Nazione:

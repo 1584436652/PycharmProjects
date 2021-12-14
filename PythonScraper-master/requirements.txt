@@ -1,0 +1,11 @@
+requests
+lxml
+bs4
+pandas
+selenium
+aiohttp
+motor
+pymongo
+pymysql
+fake_useragent
+pyppeteer

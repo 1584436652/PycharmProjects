@@ -6,7 +6,7 @@ import random
 import requests
 import re
 account_name = "1584436652@qq.com"
-password = "lkt02230330"
+password = ""
 
 # 登录微信公众号，获取登录之后的cookies信息，并保存到本地文本中
 
